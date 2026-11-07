@@ -49,9 +49,3 @@
 
 ### Certifications & events
 SAP Code Unnati / Edunet Foundation: emerging technologies (ML, IoT, deep learning, computer vision, SAP ABAP) · Code Unnati Innovation Marathon 2023–24 · Smart Campus Hackathon, South Asian University × Geekster · Robotics workshop, CODEX × Techfest IIT Bombay · Ethical Hacking & Network Pentesting, CRAW Security
-
-### GitHub activity
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=deepanshuswami8828-star&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshuswami8828-star&layout=compact&hide_border=true" alt="Top languages" />
-</p>
